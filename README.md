@@ -10,6 +10,7 @@ $ npm install -g yo
 Next, install this generator:
 ```
 $ npm install -g generator-air-game
+```
 
 Run the generator in any empty directory to scaffold your game!
 Dependencies will be automatically installed after scaffolding.
