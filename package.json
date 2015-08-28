@@ -1,6 +1,6 @@
 {
   "name": "generator-air-game",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An AIR for Mobile game project generator to speed up the standard classes I keep recreating with each project.",
   "main": "generators/app/index.js",
   "scripts": {
