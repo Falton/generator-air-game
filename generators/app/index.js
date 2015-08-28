@@ -92,7 +92,7 @@ module.exports = generators.Base.extend({
         this.template('src/com/events/ScreenEvent.as', path+'events/ScreenEvent.as');
         this.template('src/com/interfaces/IScreen.as', path+'interfaces/IScreen.as');
         this.template('src/com/managers/Achievement.as', path+'managers/Achievement.as');
-        this.template('src/com/managers/AchievementManager.as', path+'managers/AchievementManager.as');
+        this.template('src/com/managers/AchievementsManager.as', path+'managers/AchievementsManager.as');
         this.template('src/com/managers/ScreenManager.as', path+'managers/ScreenManager.as');
         this.template('src/com/managers/SoundManager.as', path+'managers/SoundManager.as');
         this.template('src/com/managers/Stat.as', path+'managers/Stat.as');

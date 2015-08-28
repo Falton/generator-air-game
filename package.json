@@ -1,6 +1,6 @@
 {
   "name": "generator-air-game",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An AIR for Mobile game project generator to speed up the standard classes I keep recreating with each project.",
   "main": "generators/app/index.js",
   "scripts": {
@@ -11,7 +11,9 @@
     "url": "https://github.com/Falton/generator-air-game.git"
   },
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+	"AIR Project",
+	"AIR Game"
   ],
   "author": "Dima Svetov <dima@svetov.com> (http://github.com/Falton)",
   "license": "MIT",
