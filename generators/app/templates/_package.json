@@ -1,0 +1,20 @@
+{
+  "name":        "<%= _.slugify(projectName) %>",
+  "version":     "0.0.0",
+  "description": "A minimalist AIR Game project template!",
+  "main":        "",
+  "author":      "",
+  "license":     "",
+  "keywords": [
+    "AIR Game"
+  ],
+
+  "dependencies": {
+  },
+
+  "devDependencies": {
+  },
+
+  "scripts": {
+  }
+}
