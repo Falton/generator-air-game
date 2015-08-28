@@ -1,0 +1,19 @@
+{
+	"achievements":[
+		{
+			"id":0,
+			"onlineId":"#####",
+			"name":"Some Name",
+			"description":"",
+			"visible":true,
+			"monitor":[
+				{
+					"statType":"score",
+					"creteria":">=",
+					"result":1000,
+					"persistence":true
+				}
+			]
+		}
+	]
+}
